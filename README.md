@@ -12,6 +12,9 @@ Il manque énormement de chose qui sont soit complétement manquante ou que j'ai
 # Comment lancer le projet :
 Pour lancer notre projet, il faut disposer d’un ordinateur ayant Visual Studio Code 2019 ainsi que GitHub afin de cloner notre projet en local qui est déposer sur un repository et également de l'extension monogame d'installer sur votre Visual Studio Code 2019.
 
+# Comment jouer au jeu :
+Pour l'instant le jeu ne posséde pas de menu, vous aurez donc à simplement lancer lancer le projet depuis Visual Studio Code et le jeu se lancera. Une fois le jeu lancer un ennemie apparaîtra en haut de l'écran ainsi que votre personnage(personnage feminin au cheveux vert). Appuyer sur votre touche l pour tirer, maintenir shift pour que votre personnage se déplace plus rapidement. Faites attention votre adversaire vous tirera aussi dessus si vous êtes toucher vous perdrez des points de vies, arriver a 0 et votre personnage meurt le partie est fini.
+
 # Conclusion :
 Pour conclure je pense avoir choisi un cahier des charges ainsi qu'un sujet bien trop complexe pour mon niveau, il y a encore beaucoup de chose à améliorer et revoir pour avoir un vérritable shooter 2D. J'ai préférer modifier le sujet et ne pas complétement suivre mon cahier des charges pour pouvoir rendre quelques chose de jouable et présentable.
 
