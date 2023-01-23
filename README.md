@@ -3,7 +3,8 @@
 J'ai choisi ce thème car en tant que grand fan de shooter il était important pour moi de faire quelques chose qui me plaît et me corresponde un minimum. Je suis donc parti sur l'idée d'un petit shooter 2D assez simpliste.
 
 # Mon installation :
-Nous pouvons nous loger ou nous enregistrer dans la base de données pour avoir accès à l’application. Une fois loger nous sommes sur l’accueil et nous pouvons cliquer sur les 4 manga ou les 4 anime proposé pour avoir leurs détails ou pour les ajouter à la Watch List. Si nous ne trouvons pas le manga ou l’anime voulu, nous pouvons le rechercher avec la recherche ou avec les différents tag proposé.
+Nous pouvons nous loger ou nous enregistrer dans la base de données pour avoir accès à l’application. Une fois loger nous sommes sur l’accueil et nous pouvons cliquer sur le
+.
 
 # Ce qui manque :
 Nous avons codé la majorité du projet mais ils nous manquent quelques options que nous n’avons pas eu le temps de coder. Tel que les commentaires, que les utilisateurs peuvent laisser sous une œuvre ou laisser une note avec un système de notation. Ainsi que le synopsis pour chaque œuvre que nous n’avons pas réussi à mettre dans notre base de données.
